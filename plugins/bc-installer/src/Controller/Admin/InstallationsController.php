@@ -93,6 +93,8 @@ class InstallationsController extends BcAdminAppController
 
     /**
      * Step 1: ウェルカムページ
+     * 
+     * キャッシュファイルを全て削除する
      *
      * @return void
      * @noTodo
